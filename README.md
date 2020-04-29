@@ -23,6 +23,7 @@ Il est également possible de faire vos propres extractions à partir de l'inter
 https://data.gesis.org/claimskg/explorer/home
 
 2. Feature engineering
+
 Vous êtes invités à utiliser comme source de features le ​ texte de chaque assertion (indexer les
 assertions et sélectionner les termes les plus informatifs) mais pensez également à utiliser les
 métadonnées associées ​ (auteur de l'assertion, date, entités nommées mentionnées dans le
@@ -60,6 +61,7 @@ méthodes de ​ sélection de variables (ou de features). Le plus important et 
 conclusions. Qu’en concluez-vous en comparant les listes obtenues pour les deux tâches ?
 
 4. Analyse
+
 La partie `analyse` de votre projet consiste à comparer empiriquement les différents choix faits
 au niveau de features, pré-traitements, modèles et data sampling par rapport à leur impact sur
 la qualité de la classification obtenue. Cette analyse sera présentée de manière synthétique et
